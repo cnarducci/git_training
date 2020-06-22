@@ -1,4 +1,9 @@
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
 Text on second line
 Text on 3rd Line
+Add text to Alice
+<<<<<<< HEAD
 Text on 4th Line
+=======
+Github edit
+>>>>>>> 8c5ed3a9f2459c0c96aa6f3006d08c7c4c7f7f86
